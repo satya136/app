@@ -1,0 +1,8 @@
+PEC visualization mobile application
+
+application will be having following options
+
+1. View college in Eagle Eye vision
+2. View college in pedistrian vision
+
+Thank you
